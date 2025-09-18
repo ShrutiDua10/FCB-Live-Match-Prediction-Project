@@ -104,7 +104,7 @@ fcb_fbref_model/
 
 ## 3. Computer Vision Production
 
-### 3.1 🎞️ Roboflow Dataset
+### 3.1 Roboflow Dataset
 
 - Annotated objects: `player_home`, `player_away`, `ball`, `goalpost`, `referee`
 - Roboflow export: YOLOv8 or COCO format
@@ -146,7 +146,7 @@ match_id, team, window_start, ball_goal_dist_mean, box_entries, sprints, ...
 
 ---
 
-## 5. 📁 Project Structure
+## 5. Project Structure
 
 ```
 fcb_match_prediction/
@@ -177,7 +177,6 @@ fcb_match_prediction/
 │
 ├── models/                # Trained model.pkl, scaler.pkl
 ├── data/                  # Raw FBref + CV feature data
-├── scripts/               # CLI tools
 ├── notebooks/             # EDA + training
 ├── tests/                 # Unit tests
 ├── requirements.txt
