@@ -45,7 +45,7 @@ I will be doing cloud deployment for just this model along with the overall mode
 - Docker to containerize and package my model
 - Will deploy on AWS EC2
 - Optional: As i have very less experience in monitoring and automation of my deplpyed models, I would like to incorporate it here. I will possibly use AWS CloudWatch for server monitoing and MLflow to log model training runs, track hyperparameters and metrics, and version deployed models.
-- For automation, I woul like to explore GitHub Actions.
+- For automation, I would like to explore a GitHub Actions CI/CD pipeline.
 
 **API**:
 - `POST /predict_fbref_only`: FBref stats → prediction
