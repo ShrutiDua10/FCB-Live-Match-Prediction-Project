@@ -57,7 +57,6 @@ I will be doing cloud deployment for just this model along with the overall mode
   "xg_diff": 0.75,
   "possession_diff": 8.5,
   "shots_diff": 4,
-  "passes_pct_diff": 6.2,
   "home_adv": 1
 }
 ```
